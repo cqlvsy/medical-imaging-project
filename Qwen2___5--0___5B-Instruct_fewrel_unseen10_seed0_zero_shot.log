@@ -1,0 +1,12 @@
+🎯 Evaluation Summary
+Total samples: 6865
+Valid predictions: 416 (6.06%)
+Fully correct predictions: 8 (0.12%)
+Precision: 0.0192
+Recall: 0.0012
+F1 Score: 0.0022
+Head+Relation accuracy: 0.0073
+Relation+Tail accuracy: 0.0035
+Head+Tail accuracy: 0.0032
+Inference time: 125.37 seconds (per sample 0.0183s)
+Raw results saved to: Qwen2___5--0___5B-Instruct_fewrel_unseen10_seed0_zero_shot.json

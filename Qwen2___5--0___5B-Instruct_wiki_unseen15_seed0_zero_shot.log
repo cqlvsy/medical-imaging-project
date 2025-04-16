@@ -1,0 +1,12 @@
+🎯 Evaluation Summary
+Total samples: 15089
+Valid predictions: 683 (4.53%)
+Fully correct predictions: 0 (0.00%)
+Precision: 0.0000
+Recall: 0.0000
+F1 Score: 0.0000
+Head+Relation accuracy: 0.0003
+Relation+Tail accuracy: 0.0000
+Head+Tail accuracy: 0.0005
+Inference time: 262.13 seconds (per sample 0.0174s)
+Raw results saved to: Qwen2___5--0___5B-Instruct_wiki_unseen15_seed0_zero_shot.json
